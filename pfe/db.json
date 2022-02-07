@@ -1,0 +1,358 @@
+{
+  "student": [
+    {
+      "firstName": "Badra Souhila",
+      "lastName": "Guendouzi",
+      "dateOfBirth": "29-07-1999",
+      "placeOfBirth": "Arzew",
+      "email": "b.guendouzi@esi-sba.dz",
+      "userName": "souHila",
+      "password": "Guendouzi",
+      "promotion": "1SC",
+      "isLeader": false,
+      "id": 6,
+      "team":3
+    },
+    {
+      "id": 2,
+      "firstName": "Wided Ahlem",
+      "lastName": "Touhami",
+      "dateOfBirth": "29-07-1999",
+      "placeOfBirth": "Arzew",
+      "email": "b.guendouzi@esi-sba.dz",
+      "userName": "souHila",
+      "password": "Guendouzi",
+      "promotion": "1SC",
+      "isLeader": false,
+      "team":3
+    },
+    {
+      "id": 3,
+      "firstName": "Tariq",
+      "lastName": "Hamrit",
+      "dateOfBirth": "29-07-1999",
+      "placeOfBirth": "Arzew",
+      "email": "b.guendouzi@esi-sba.dz",
+      "userName": "souHila",
+      "password": "Guendouzi",
+      "promotion": "1SC",
+      "isLeader": false,
+      "team":3
+    },
+    {
+      "id": 4,
+      "firstName": "Moussa ",
+      "lastName": "Khoudja",
+      "dateOfBirth": "29-07-1999",
+      "placeOfBirth": "Arzew",
+      "email": "b.guendouzi@esi-sba.dz",
+      "userName": "souHila",
+      "password": "Guendouzi",
+      "promotion": "1SC",
+      "isLeader": false,
+      "team":3
+    },
+    {
+      "id": 5,
+      "firstName": "Latreche",
+      "lastName": "Chrif",
+      "dateOfBirth": "29-07-1999",
+      "placeOfBirth": "Arzew",
+      "email": "b.guendouzi@esi-sba.dz",
+      "userName": "souHila",
+      "password": "Guendouzi",
+      "promotion": "3SC-ISI",
+      "isLeader": true,
+      "team":2
+    },
+    {
+      "id": 7,
+      "firstName": "Malika",
+      "lastName": "dermi",
+      "dateOfBirth": "29-07-1999",
+      "placeOfBirth": "Arzew",
+      "email": "b.guendouzi@esi-sba.dz",
+      "userName": "souHila",
+      "password": "Guendouzi",
+      "promotion": 5,
+      "isLeader": true,
+      "team":1
+    },
+    {
+      "firstName": "Ilyes ",
+      "lastName": "bacha ",
+      "dateOfBirth": "2020-06-11T14:21:31.230Z",
+      "placeOfBirth": " ",
+      "email": "i.bacha@esi-sba.dz",
+      "userName": " ",
+      "password": " ",
+      "promotion": 5,
+      "isLeader": true,
+      "note": 15.15,
+      "id": 0,
+      "team":3
+    },
+    {
+      "firstName": "Kaouthar ",
+      "lastName": "bacha ",
+      "dateOfBirth": "2020-06-11T14:21:31.230Z",
+      "placeOfBirth": " ",
+      "email": "i.bacha@esi-sba.dz",
+      "userName": " ",
+      "password": " ",
+      "promotion": 5,
+      "isLeader": true,
+      "note": 15.15,
+      "id": 0,
+      "team":1
+    },
+    {
+      "firstName": "Nadjet ",
+      "lastName": "Boudouara",
+      "dateOfBirth": "2020-06-11T14:21:31.230Z",
+      "placeOfBirth": " ",
+      "email": "i.bacha@esi-sba.dz",
+      "userName": " ",
+      "password": " ",
+      "promotion": 5,
+      "isLeader": false,
+      "note": 15.15,
+      "id": 0,
+      "team":2
+    }
+    
+  ],
+  "students": [
+    {
+      "id": 6,
+      "firstName": "Badra Souhila",
+      "lastName": "Guendouzi",
+      "promotion": 5,
+      "isLeader": false,
+      "team": -99
+    },
+    {
+      "id": 2,
+      "firstName": "Wided ",
+      "lastName": "Touhami",
+      "promotion": 5,
+      "isLeader": false,
+      "team": -99
+    },
+    {
+      "id": 3,
+      "firstName": "Tariq",
+      "lastName": "Hamrit",
+      "promotion": 5,
+      "isLeader": false,
+      "team": -99
+    },
+    {
+      "id": 4,
+      "firstName": "Khoudja",
+      "lastName": "Moussa",
+      "promotion": 5,
+      "isLeader": false,
+      "team": -99
+    },
+    {
+      "id": 7,
+      "firstName": "Malika",
+      "lastName": "Dermi",
+      "promotion": 5,
+      "isLeader": true,
+      "team": 1
+    },
+    {
+      "id": 8,
+      "firstName": "Habib",
+      "lastName": "Kaouthar",
+      "promotion": 5,
+      "isLeader": false,
+      "team": -99
+    },
+    {
+      "id": 5,
+      "firstName": "Cherif",
+      "lastName": "Latreche",
+      "promotion": 5,
+      "isLeader": true,
+      "team": 2
+    },
+    {
+      "id": 9,
+      "firstName": "Boudouara",
+      "lastName": "Nadjet",
+      "promotion": 5,
+      "isLeader": false,
+      "team": 6
+    }
+  ],
+  "teamsMembers": [
+    {
+      "firstName": "Khoudja",
+      "lastName": "Moussa",
+      "promotion": 5,
+      "isLeader": false,
+      "dateOfBirth": "2020-06-11T14:21:31.230Z",
+      "placeOfBirth": " ",
+      "currentYear": "2019/2020",
+      "team": 3
+    },
+    {
+      "firstName": "Tariq",
+      "lastName": "Hamrit",
+      "promotion": 5,
+      "isLeader": false,
+      "dateOfBirth": "2020-06-11T14:21:31.230Z",
+      "placeOfBirth": " ",
+      "currentYear": "2019/2020",
+      "team": 3
+    },
+    {
+      "firstName": "Wided Ahlem",
+      "lastName": "Touhami",
+      "promotion": 5,
+      "isLeader": false,
+      "dateOfBirth": "2020-06-11T14:21:31.230Z",
+      "placeOfBirth": " ",
+      "currentYear": "2019/2020",
+      "team": 3
+    },
+    {
+      "firstName": "Bdra Souhila",
+      "lastName": "Guendouzi",
+      "promotion": 5,
+      "isLeader": false,
+      "dateOfBirth": "2020-06-11T14:21:31.230Z",
+      "placeOfBirth": " ",
+      "currentYear": "2019/2020",
+      "team": 3
+    }
+  ],
+  "promotion": [
+    {
+      "id": 1,
+      "cycle": "CPI",
+      "year": "1",
+      "specialityName": "",
+      "description": "hadi lawla",
+      "maxTeamMembers": "0",
+      "minTeamMembers": "0",
+      "maxProjects": "0"
+    },
+    {
+      "id": 2,
+      "cycle": "CPI",
+      "year": "2",
+      "specialityName": "",
+      "description": "hadi  zawja",
+      "maxTeamMembers": "0",
+      "minTeamMembers": "0",
+      "maxProjects": "0"
+    },
+    {
+      "id": 5,
+      "cycle": "SC",
+      "year": "1",
+      "specialityName": "",
+      "description": "nnnnn",
+      "maxTeamMembers": "6",
+      "minTeamMembers": "5",
+      "maxProjects": "6"
+    }
+  ],
+  "teams": [
+    {
+      "name": "Cherif Team",
+      "readiness": false,
+      "project": -99,
+      "noteAvg": -99,
+      "id": 2
+    },
+    {
+      "name": "Malika Team",
+      "readiness": false,
+      "project": -99,
+      "noteAvg": -99,
+      "id": 1
+    },
+    {
+      "name": "BACHA Team",
+      "readiness": true,
+      "id": 3
+    }
+  ],
+  "invites": [
+    {
+      "sender": 0,
+      "receiver": 8,
+      "accepted": false,
+      "rejected": false,
+      "id": 0
+    },
+    {
+      "sender": 0,
+      "receiver": 3,
+      "accepted": false,
+      "rejected": false,
+      "id": 2
+    },
+    {
+      "sender": 0,
+      "receiver": 4,
+      "accepted": false,
+      "rejected": false,
+      "id": 1
+    },
+    {
+      "sender": 0,
+      "receiver": 2,
+      "accepted": false,
+      "rejected": false,
+      "id": 3
+    },
+    {
+      "sender": 0,
+      "receiver": 6,
+      "accepted": true,
+      "rejected": false,
+      "id": 4
+    }
+  ],
+  "invite": [],
+  "invited": [
+    {
+      "sender": 7,
+      "receiver": 0,
+      "accepted": true,
+      "rejected": false,
+      "id": 0
+    },
+    {
+      "id": 1,
+      "sender": 5,
+      "receiver": 0,
+      "accepted": false,
+      "rejected": true
+    }
+  ],
+  "myTeam": [
+    {
+      "name": "BACHA Team",
+      "readiness": true,
+      "project": -99,
+      "noteAvg": -99,
+      "id": 1
+    }
+  ],
+  "report": [
+    {
+      "form": {},
+      "date": "2020-06-11T17:02:44.727Z",
+      "id": 1
+    }
+  ],
+  "login": [],
+  "pfe": []
+}
